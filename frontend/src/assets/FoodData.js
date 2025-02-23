@@ -1,0 +1,111 @@
+const FoodData = [
+  {
+    id: 1,
+    img: "https://t4.ftcdn.net/jpg/04/36/36/57/360_F_436365754_z3i5Es0sFmZuLY6GZIzdiU01v9HqpGZe.jpg",
+    name: "Briyani",
+    tier: "",
+  },
+  {
+    id: 2,
+    img: "https://www.teaforturmeric.com/wp-content/uploads/2022/04/Dahi-Bhalla-06.jpg",
+    name: "Dahi Bhalla",
+    tier: "",
+  },
+  {
+    id: 3,
+    img: "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/shalini-r14810461425846f87e6c86a.jpeg",
+    name: "Afgani Chicken Kebab",
+    tier: "",
+  },
+  {
+    id: 4,
+    img: "https://www.pillsbury.in/wp-content/uploads/2023/11/Recipe.jpg",
+    name: "Momos",
+    tier: "",
+  },
+  {
+    id: 5,
+    img: "https://shwetainthekitchen.com/wp-content/uploads/2023/03/vegetable-noodles.jpg",
+    name: "Noodles",
+    tier: "",
+  },
+  {
+    id: 6,
+    img: "https://therecipecritic.com/wp-content/uploads/2017/09/BD13D8BA-9BFA-4BFD-AF09-17DC38CBFECA.jpeg",
+    name: "Ramen",
+    tier: "",
+  },
+  {
+    id: 7,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJnoN2jeDgVTBAC0l-fqpl6RF9G3OKQAV0mg&s",
+    name: "Roti dal",
+    tier: "",
+  },
+  {
+    id: 8,
+    img: "https://slojo.co.za/wp-content/uploads/2023/11/oreo-Salted-Caramel.png",
+    name: "Orea Caramel milk shake",
+    tier: "",
+  },
+  {
+    id: 9,
+    img: "https://www.cubesnjuliennes.com/wp-content/uploads/2020/03/Best-Kadai-Paneer-Recipe.jpg",
+    name: "Kadhai Panner",
+    tier: "",
+  },
+  {
+    id: 10,
+    img: "https://crownresto.com/wp-content/uploads/2022/01/Tandoori-Chicken-1-1.jpg",
+    name: "Tandoori Chicken",
+    tier: "",
+  },
+  {
+    id: 11,
+    img: "https://www.thereciperebel.com/wp-content/uploads/2021/07/oreo-milkshake-www.thereciperebel.com-1200-8-of-29.jpg",
+    name: "Oreo Milk shake",
+    tier: "",
+  },
+  {
+    id: 12,
+    img: "https://recipes.heart.org/en/-/media/AHA/Recipe/Recipe-Images/Classic-Margherita-Pizza-with-Whole-Wheat-Pizza-Crust.jpg?h=684&iar=0&mw=890&w=890&sc_lang=en",
+    name: "Margherita",
+    tier: "",
+  },
+  {
+    id: 13,
+    img: "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/94f9e787-81b6-46c9-a814-d6c27b770cf4_369088.JPG",
+    name: "KFC",
+    tier: "",
+  },
+  {
+    id: 14,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZsyE-vH90bNWuwYlF4w86Gve21AzWBvKZA&s",
+    name: "Mac Donalds",
+    tier: "",
+  },
+  {
+    id: 15,
+    img: "https://www.whiskaffair.com/wp-content/uploads/2020/10/Jhal-Muri-2-1.jpg",
+    name: "Jhal Muri",
+    tier: "",
+  },
+  {
+    id: 16,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRxEyjnsSJAnucLHmwo7VhnL919xLKP_IGA&s",
+    name: "Burger",
+    tier: "",
+  },
+  {
+    id: 17,
+    img: "https://w7.pngwing.com/pngs/204/32/png-transparent-crispy-fried-chicken-karaage-chicken-nugget-chicken-fingers-buffalo-wing-carrot-chilli-thumbnail.png",
+    name: "Crispy Chicken Wings",
+    tier: "",
+  },
+  {
+    id: 18,
+    img: "https://w7.pngwing.com/pngs/816/163/png-transparent-grilled-skewered-meat-bakery-paneer-tikka-indian-cuisine-vegetarian-cuisine-cake-food-baking-cake-decorating-thumbnail.png",
+    name: "Paneer Tikka Skewers",
+    tier: "",
+  },
+];
+export default FoodData;
